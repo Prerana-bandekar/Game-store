@@ -9,17 +9,9 @@ The project contains:
 `cart`: Gives an overlook of all games and prices that are put to purchase list.  
 `Registration`, `login` and `Payment` pages respectively.
 
-Static version of this app is running at [gh-pages](https://pavan-n-654.github.io/gamestore).
-
-Authors:  
->Nishanth S @[Nishanth-S1142001](https://github.com/Nishanth-S1142001)  
->Pavan N @[pavan-n-654](https://github.com/pavan-n-654)  
->Prerana Umakant Bandekar @[Prerana-bandekar](https://github.com/Prerana-bandekar)  
->Rahul RadhaKrishna @[rahul0311](https://github.com/rahul0311)
-
 Clone the repo:
 ```
-git clone https://github.com/pavan-n-654/gamestore
+git clone https://github.com/prerana-bandekar/Game-store.git
 ```
 or download `zip` file
 ```
